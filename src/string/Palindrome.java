@@ -9,6 +9,7 @@ public class Palindrome {
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the string to check whether it is Palindrome or Not");
+		System.out.println("Show updates");
 		String inputStr = sc.nextLine();
 		int len = inputStr.length();
 		int num=0;
