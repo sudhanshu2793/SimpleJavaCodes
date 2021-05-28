@@ -10,7 +10,7 @@ public class ExtractString {
 		System.out.println(5/2);
 		System.out.println("Enter the String: ");
 		Scanner scanner = new Scanner(System.in);
-		
+		System.out.println("Need to merge");
 		
 		String inputStr = scanner.nextLine();
 		for (int i=0; i<inputStr.length();i++){
