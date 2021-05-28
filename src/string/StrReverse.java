@@ -10,6 +10,7 @@ public class StrReverse {
 		System.out.println("Enter the string to be reversed");
 		String input = scanInput.next();
 		System.out.println("Reverse of "+input+" using char array is "+StrReverse.reverseWithCharArray(input));
+		System.out.println("We have made changes in our localBranch");
 	}
 	
 	 static String reverseWithCharArray(String input){
