@@ -23,8 +23,10 @@ public class Palindrome {
 				else
 					break;
 			}
-			if(num==((len/2)+(len%2)))
+			if(num==((len/2)+(len%2))){
 				System.out.println(inputStr+" is a Palindrome String");
+				System.out.println("Success");
+			}
 			else
 				System.out.println(inputStr+" is NOT a Palindrome String");
 		}
