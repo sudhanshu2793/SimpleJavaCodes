@@ -6,7 +6,7 @@ public class LongestPalindrome {
 	
 	public static void main(String args[]){
 		
-		/*Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the string ");
 		String inputStr = sc.nextLine();
 		int len = inputStr.length();
@@ -15,7 +15,7 @@ public class LongestPalindrome {
 			System.out.println("Empty String.");
 		else{
 			}
-			*/
+			
 		String s = "Kumar";
 		String k = "Karn";
 		System.out.println();
